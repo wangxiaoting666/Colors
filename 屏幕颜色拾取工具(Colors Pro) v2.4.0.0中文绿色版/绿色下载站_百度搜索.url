@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://www.baidu.com/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=87048150_dg&wd=%E7%BB%BF%E8%89%B2%E4%B8%8B%E8%BD%BD%E7%AB%99&oq=%E7%BB%BF%E8%89%B2%E4%B8%8B%E8%BD%BD%E7%AB%99&rsv_pq=b0b8f7380008ebc4&rsv_t=8580h8BR%2FtGK3V54yrfcWazfrEDp0cRCyJlB58h18dRcNSu6PH6CrSiP9YyP%2B%2FqFn%2Bo&rqlang=cn&rsv_enter=1&inputT=5&rsv_sug3=4&rsv_sug1=4&rsv_sug7=100&rsv_sug2=0&rsv_sug4=263
+IconFile=C:\Windows\system32\SHELL32.dll
+IconIndex=242
+Modified=E0DA57F4F1F3CF01B9
+IDList=
+HotKey=0

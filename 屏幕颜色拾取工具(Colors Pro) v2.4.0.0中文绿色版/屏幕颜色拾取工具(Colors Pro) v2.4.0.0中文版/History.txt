@@ -1,0 +1,180 @@
+Colors 2.4 (2018-10-23)
+~~~~~~~~~~~~~~~~~~~~~~~
+
+2.3.0.3 Beta (2018-10-16)
+* Updated Polish language file. Thanks to Leszek.
+* Cleaned up version history file.
+
+2.3.0.2 Beta (2018-06-06)
+* Added "How to translate" link to the Languages menu.
+* Find application language file independently of the executable file name.
+* Fixed incorrectly resized color memory panels when adjusting for High DPI.
+* Added Dutch language file.
+
+2.3.0.1 Beta (2017-05-16)
+* Implemented auto scaling of controls for High DPI displays.
+
+
+Colors 2.3 (2016-12-04)
+~~~~~~~~~~~~~~~~~~~~~~~
+
+2.2.0.2 Beta (2016-12-04)
+* Added Spanish (Spain) language file. Thanks to José Manuel Giraldo.
+
+2.2.0.1 Beta (2016-07-30)
+* Removed "Pro" version requirement from previously restricted options.
+* Added Swedish translation file. Thanks to Åke Engelbrektson.
+* Updated Chinese Simplified language file. Thanks to WanderMax.
+* Updated Russian language file.
+
+
+Colors 2.2 (2016-03-31)
+~~~~~~~~~~~~~~~~~~~~~~~
+
+2.1.0.7 Beta (2016-03-31)
+* Updated copyright information.
+
+2.1.0.6 Beta (2016-03-02)
+* Added French language file. Thanks to Ozzii.
+* Added Portuguese (Brazil) language file. Thanks to Igor Rückert.
+* Updated Japanese language file. Thanks to Tilt.
+* Resolve environment variables in custom storage path in Storage.ini.
+
+2.1.0.5 Beta (2015-10-07)
+* Enabled DPI awareness to fix form scaling issues on Windows 8 and later.
+
+2.1.0.4 Beta (2015-08-02)
+* Added Spanish (Mexico) translation file.
+
+2.1.0.3 Beta (2015-06-17)
+* Updated Chinese Simplified (zh_CN) translation file.
+* Set application BidiMode (right-to-left) according to the selected language, instead of by system locale.
+* Added BiDiCode setting in INI file for overiding application BidiMode, possible values: AUTO, LTR, RTL.
+* Improvements to the registration procedure.
+
+2.1.0.2 Beta (2015-05-05)
+* Variable color picker spot size and selection of an average color.
+* Refactored code for operation of color picker panel.
+* Trim trailing new lines from system error message in file opening function.
+
+2.1.0.1 Beta (2015-03-28)
+* Added ability to take desktop screenshot on pre Windows 2000 platforms.
+* Added Japanese translation PO file.
+* Added Polish translation PO file.
+
+
+Colors 2.1 (2015-03-28)
+~~~~~~~~~~~~~~~~~~~~~~~
+
+2.0.0.2 Beta (2015-02-14)
+* Added Chinese Simplified (zh_CN) translation file;
+* Added Romanian (ro) translation file;
+* Added Italian (it) translation file;
+
+2.0.0.1 Beta (2015-01-27)
+* Converted application project from Delphi 2010 to Lazarus/FPC;
+* Added main menu and integrated Settings and Help button options;
+* Use Settings.ini instead of <Application>.ini naming for settings;
+* Store all user data in user profile directory for Installer version;
+* Added multilingual support using PO files in Languages folder;
+* Added Language menu;
+* Added Russian translation file;
+* Updated application icon to use a new version with clipped round corners;
+
+
+Colors 1.2 (2015-01-17)
+~~~~~~~~~~~~~~~~~~~~~~~
+
+1.1.0.5 Beta (2014-05-17)
+* Pick your preferred color format for automatically copying into clipboard;
+* Toggle display of hash symbol in HTML color format;
+
+1.1.0.4 Beta (2014-05-02)
+* Fixed graphical glitches where the main interface did not get redrawn
+  correctly after being hidden for color picking on certain systems;
+* Fixed problem with vaguely visible main interface captured by the color
+  picking when it was configured to be hidden, caused by transition effects;
+
+1.1.0.3 Beta (2014-02-28)
+* Compact version numbering for major releases, e.g.: v1.0 instead of v1.0.0.0;
+
+1.1.0.2 Beta (2014-01-29)
+* Removed donation link (donations are discontinued in favor of "Pro" version);
+* Added confirmation dialog before unregistering the product;
+* License expiration is checked against UTC date instead of local;
+
+
+Colors 1.1.0.0 (2013-09-04)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1.0.0.5 Beta
+* Issue date is displayed in the license details;
+
+1.0.0.4 Beta
+* Free version is now known as "Lite" and licensed version as "Pro";
+* Built-in registration facility;
+* Added release date to the About dialog;
+* Added purchase and compare editions options to the Help menu
+  and Terms of Use dialog;
+
+1.0.0.3 Beta
+* Renamed "CSS" color field to "R,G,B";
+
+1.0.0.2 Beta
+* Added color field for CSS format as R,G,B;
+
+1.0.0.1 Beta
+* Minor cosmetic changes;
+
+
+Colors 1.0.0.0 (2013-03-19)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Store all settings in the INI file;
+* Remember last selected color and state of checkboxes;
+* Added links to Website and Forum in the Help menu;
+* Translation field in the About dialog became more apparent;
+* Application will still close if settings could not be saved;
+* Added Terms of Use dialog, shown on first launch;
+
+0.1.0.149 Alpha (2012-02-16)
+* Updated fonts in the About dialog;
+* Updated support email;
+
+0.1.0.147 Alpha
+* Fixed problem with positioning of the screenshot when it is 
+  activated while main form is on the secondary monitor;
+
+0.1.0.145 Alpha
+* Color selection panel is flipped according to the active monitor
+  on multi-monitor setups;
+
+0.1.0.144 Alpha
+* White rectangle in addition to black around the center color 
+  on the color selection panel to aid selection in dark image;
+
+0.1.0.142 Alpha
+* Expanded Help menu with addition links to version history,
+  licence agreement, web site and donation URL;
+
+0.1.0.140 Alpha
+* Fixed problem that caused main form to remain hidden when
+  screen color picker was cancelled with Alt+F4 action;
+* Fixed problem that caused incorrect positioning of the
+  color selection panel when picking color from screen
+  on desktops with negative origin;
+
+0.1.0.135 Alpha
+* Further adjustments to improve support for multi-screen desktops;
+
+0.1.0.133 Alpha
+* CMYK color space conversion implemented;
+
+0.1.0.127 Alpha
+* Option to automatically place selected HTML color into clipboard;
+
+0.1.0.122 Alpha
+* Screen picker works on multi-screen desktops;
+
+0.1.0.120 Alpha
+* First public Alpha release;

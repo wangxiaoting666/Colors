@@ -1,0 +1,724 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: Colors\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Marino de Stena <marino.destena@alienpro.it>\n"
+"Language-Team: den4b Team <support@den4b.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"X-Country: it\n"
+"X-Country-Name: Italy\n"
+"X-Language-Name: Italian\n"
+"X-Language-Name-Native: Italiano\n"
+"X-Translators: Marino de Stena <marino.destena@alienpro.it>\n"
+"X-Generator: Poedit 1.8.6\n"
+
+#: mainform.s_askpurchaseremovelimit
+msgid "Would you like to purchase a \"Pro\" version to remove this limit?"
+msgstr "Vuoi acquistare una versione \"Pro\" per rimuovere questo limite?"
+
+#: mainform.s_askpurchaseunlockfeature
+msgid "Would you like to purchase a \"Pro\" version to unlock this feature?"
+msgstr "Vuoi acquistare una versione \"Pro\" per sbloccare questa funzionalità?"
+
+#: mainform.s_cannot_create_license_dir
+msgctxt "mainform.s_cannot_create_license_dir"
+msgid "Not able to create a directory for a license file."
+msgstr "Impossibile creare directory per il file di licenza."
+
+#: mainform.s_confirmunregister
+msgid ""
+"Are you sure you want to unregister the product?\n"
+"\n"
+"This will remove your license and deactivate the \"Pro\" version.\n"
+msgstr ""
+"Sei sicuro di voler annullare l'attivazione del prodotto? \n"
+" \n"
+"Questo rimuoverà la tua licenza e disattiverà la versione \"Pro\".\n"
+
+#: mainform.s_contact_email
+msgctxt "mainform.s_contact_email"
+msgid "Contact email"
+msgstr "Email di contatto"
+
+#: mainform.s_contact_name
+msgctxt "mainform.s_contact_name"
+msgid "Contact name"
+msgstr "Nome di contatto"
+
+#: mainform.s_error_details
+msgid "Error"
+msgstr "Errore"
+
+#: mainform.s_featurenotavailable
+msgid "This feature is not available in this version."
+msgstr "Questa funzionalità non è disponibile in questa versione."
+
+#: mainform.s_free_license_note
+msgctxt "mainform.s_free_license_note"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "Questa applicazione può essere utilizzata e distribuita SOLO per scopi non commerciali."
+
+#: mainform.s_issue_date
+msgctxt "mainform.s_issue_date"
+msgid "Issue date"
+msgstr "Data di emissione"
+
+#: mainform.s_license
+msgctxt "mainform.s_license"
+msgid "License"
+msgstr "Licenza"
+
+#: mainform.s_licensed_to
+msgctxt "mainform.s_licensed_to"
+msgid "Licensed to"
+msgstr "Concesso in licenza a"
+
+#: mainform.s_license_expiry
+msgctxt "mainform.s_license_expiry"
+msgid "License expiry"
+msgstr "Scadenza licenza"
+
+#: mainform.s_license_has_expired
+msgctxt "mainform.s_license_has_expired"
+msgid "License has expired."
+msgstr "Licenza scaduta."
+
+#: mainform.s_license_load_failed
+msgctxt "mainform.s_license_load_failed"
+msgid "Failed to load the license."
+msgstr "Impossibile caricare la licenza."
+
+#: mainform.s_license_remove_failed
+msgctxt "mainform.s_license_remove_failed"
+msgid "Failed to remove the license."
+msgstr "Impossibile rimuovere la licenza."
+
+#: mainform.s_license_remove_ok
+msgctxt "mainform.s_license_remove_ok"
+msgid "License has been removed."
+msgstr "La licenza è stata rimossa."
+
+#: mainform.s_no_license_caption
+msgid "(non-commercial use only)"
+msgstr "(solo per uso non commerciale)"
+
+#: mainform.s_number_of_computers
+msgctxt "mainform.s_number_of_computers"
+msgid "Number of computers"
+msgstr "Numero di computer"
+
+#: mainform.s_please_read_full_license
+msgid "For more information please read full license code"
+msgstr "Per ulteriori informazioni si prega di leggere la licenza completa"
+
+#: mainform.s_registration_error
+msgctxt "mainform.s_registration_error"
+msgid "Registration code is invalid."
+msgstr "Il codice di attivazione non è valido."
+
+#: mainform.s_registration_ok
+msgctxt "mainform.s_registration_ok"
+msgid "Registration has been successful!"
+msgstr "L'attivazione è andata a buon fine!"
+
+#: mainform.s_upgrade_expiry
+msgctxt "mainform.s_upgrade_expiry"
+msgid "Upgrade expiry"
+msgstr "Scadenza aggiornamento"
+
+#: tformabout.caption
+msgctxt "tformabout.caption"
+msgid "About"
+msgstr "Informazioni"
+
+#: tformabout.label_author.caption
+msgid "den4b Team"
+msgstr ""
+
+#: tformabout.label_author2.caption
+msgid "Author:"
+msgstr "Autore:"
+
+#: tformabout.label_date.caption
+msgid "Date:"
+msgstr "Data:"
+
+#: tformabout.label_email.caption
+msgid "support@den4b.com"
+msgstr ""
+
+#: tformabout.label_email2.caption
+msgid "Email:"
+msgstr "Email:"
+
+#: tformabout.label_title.caption
+msgctxt "tformabout.label_title.caption"
+msgid "Colors"
+msgstr ""
+
+#: tformabout.label_version.caption
+msgid "Version:"
+msgstr "Versione:"
+
+#: tformabout.label_website.caption
+msgid "www.den4b.com"
+msgstr ""
+
+#: tformabout.label_website2.caption
+msgid "Website:"
+msgstr "Sito web:"
+
+#: tformmain.actionabout.caption
+msgctxt "TFORMMAIN.ACTIONABOUT.CAPTION"
+msgid "About"
+msgstr "Informazioni"
+
+#: tformmain.actionexit.caption
+msgid "Exit"
+msgstr "Esci"
+
+#: tformmain.actionforum.caption
+msgid "Forum (online)"
+msgstr "Forum (online)"
+
+#: tformmain.actionlitevspro.caption
+msgid "Lite vs Pro (online)"
+msgstr "Lite vs Pro (online)"
+
+#: tformmain.actionpurchase.caption
+msgid "Purchase (online)"
+msgstr "Acquista (online)"
+
+#: tformmain.actionregister.caption
+msgctxt "tformmain.actionregister.caption"
+msgid "Register"
+msgstr "Registra"
+
+#: tformmain.actionsettings.caption
+msgctxt "tformmain.actionsettings.caption"
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: tformmain.actionunregister.caption
+msgid "Unregister"
+msgstr "Annulla Registrazione"
+
+#: tformmain.actionversionhistory.caption
+msgid "Version History"
+msgstr "Cronologia versioni"
+
+#: tformmain.actionwebsite.caption
+msgid "Website (online)"
+msgstr "Sito web (on line)"
+
+#: tformmain.bb_colorscreen.caption
+msgid "Pick from Screen"
+msgstr "Seleziona dallo Schermo"
+
+#: tformmain.caption
+msgctxt "TFORMMAIN.CAPTION"
+msgid "Colors"
+msgstr ""
+
+#: tformmain.cb_colortoclipboard.caption
+msgid "Automatically place selected color into clipboard"
+msgstr "Copia automaticamente il colore selezionato negli appunti"
+
+#: tformmain.cb_hideonpick.caption
+msgid "Hide this window when picking color from screen"
+msgstr "Nascondi questa finestra durante la selezione del colore dallo schermo"
+
+#: tformmain.edit_cmyk_c.text
+msgctxt "TFORMMAIN.EDIT_CMYK_C.TEXT"
+msgid "0"
+msgstr ""
+
+#: tformmain.edit_cmyk_k.text
+msgctxt "TFORMMAIN.EDIT_CMYK_K.TEXT"
+msgid "0"
+msgstr ""
+
+#: tformmain.edit_cmyk_m.text
+msgctxt "TFORMMAIN.EDIT_CMYK_M.TEXT"
+msgid "0"
+msgstr ""
+
+#: tformmain.edit_cmyk_y.text
+msgctxt "TFORMMAIN.EDIT_CMYK_Y.TEXT"
+msgid "0"
+msgstr ""
+
+#: tformmain.edit_css.text
+msgid "0,0,0"
+msgstr ""
+
+#: tformmain.edit_hex.text
+msgctxt "TFORMMAIN.EDIT_HEX.TEXT"
+msgid "000000"
+msgstr ""
+
+#: tformmain.edit_hls_h.text
+msgctxt "tformmain.edit_hls_h.text"
+msgid "0"
+msgstr ""
+
+#: tformmain.edit_hls_l.text
+msgctxt "TFORMMAIN.EDIT_HLS_L.TEXT"
+msgid "0"
+msgstr ""
+
+#: tformmain.edit_hls_s.text
+msgctxt "TFORMMAIN.EDIT_HLS_S.TEXT"
+msgid "0"
+msgstr ""
+
+#: tformmain.edit_hsv_h.text
+msgctxt "TFORMMAIN.EDIT_HSV_H.TEXT"
+msgid "0"
+msgstr ""
+
+#: tformmain.edit_hsv_s.text
+msgctxt "TFORMMAIN.EDIT_HSV_S.TEXT"
+msgid "0"
+msgstr ""
+
+#: tformmain.edit_hsv_v.text
+msgctxt "TFORMMAIN.EDIT_HSV_V.TEXT"
+msgid "0"
+msgstr ""
+
+#: tformmain.edit_rgb_b.text
+msgctxt "TFORMMAIN.EDIT_RGB_B.TEXT"
+msgid "255"
+msgstr ""
+
+#: tformmain.edit_rgb_g.text
+msgctxt "TFORMMAIN.EDIT_RGB_G.TEXT"
+msgid "255"
+msgstr ""
+
+#: tformmain.edit_rgb_r.text
+msgctxt "tformmain.edit_rgb_r.text"
+msgid "255"
+msgstr ""
+
+#: tformmain.edit_webhex.text
+msgctxt "tformmain.edit_webhex.text"
+msgid "000000"
+msgstr ""
+
+#: tformmain.label1.caption
+msgid "R:"
+msgstr ""
+
+#: tformmain.label10.caption
+msgctxt "tformmain.label10.caption"
+msgid "%"
+msgstr ""
+
+#: tformmain.label11.caption
+msgctxt "TFORMMAIN.LABEL11.CAPTION"
+msgid "%"
+msgstr ""
+
+#: tformmain.label12.caption
+msgctxt "TFORMMAIN.LABEL12.CAPTION"
+msgid "H:"
+msgstr ""
+
+#: tformmain.label13.caption
+msgctxt "TFORMMAIN.LABEL13.CAPTION"
+msgid "S:"
+msgstr ""
+
+#: tformmain.label14.caption
+msgid "V:"
+msgstr ""
+
+#: tformmain.label15.caption
+msgctxt "TFORMMAIN.LABEL15.CAPTION"
+msgid "°"
+msgstr ""
+
+#: tformmain.label16.caption
+msgctxt "TFORMMAIN.LABEL16.CAPTION"
+msgid "%"
+msgstr ""
+
+#: tformmain.label17.caption
+msgctxt "TFORMMAIN.LABEL17.CAPTION"
+msgid "%"
+msgstr ""
+
+#: tformmain.label18.caption
+msgid "C:"
+msgstr ""
+
+#: tformmain.label19.caption
+msgid "M:"
+msgstr ""
+
+#: tformmain.label2.caption
+msgid "G:"
+msgstr ""
+
+#: tformmain.label20.caption
+msgid "Y:"
+msgstr ""
+
+#: tformmain.label21.caption
+msgctxt "TFORMMAIN.LABEL21.CAPTION"
+msgid "%"
+msgstr ""
+
+#: tformmain.label22.caption
+msgctxt "TFORMMAIN.LABEL22.CAPTION"
+msgid "%"
+msgstr ""
+
+#: tformmain.label23.caption
+msgctxt "TFORMMAIN.LABEL23.CAPTION"
+msgid "%"
+msgstr ""
+
+#: tformmain.label24.caption
+msgid "K:"
+msgstr ""
+
+#: tformmain.label25.caption
+msgctxt "TFORMMAIN.LABEL25.CAPTION"
+msgid "%"
+msgstr ""
+
+#: tformmain.label26.caption
+msgid "R,G,B:"
+msgstr ""
+
+#: tformmain.label3.caption
+msgid "B:"
+msgstr ""
+
+#: tformmain.label4.caption
+msgid "HTML:"
+msgstr ""
+
+#: tformmain.label5.caption
+msgid "Hex:"
+msgstr ""
+
+#: tformmain.label6.caption
+msgctxt "tformmain.label6.caption"
+msgid "H:"
+msgstr ""
+
+#: tformmain.label7.caption
+msgid "L:"
+msgstr ""
+
+#: tformmain.label8.caption
+msgctxt "tformmain.label8.caption"
+msgid "S:"
+msgstr ""
+
+#: tformmain.label9.caption
+msgctxt "tformmain.label9.caption"
+msgid "°"
+msgstr ""
+
+#: tformmain.menuitem12.caption
+msgctxt "tformmain.menuitem12.caption"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem3.caption
+msgctxt "TFORMMAIN.MENUITEM3.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem6.caption
+msgctxt "TFORMMAIN.MENUITEM6.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.menuitem9.caption
+msgctxt "TFORMMAIN.MENUITEM9.CAPTION"
+msgid "-"
+msgstr ""
+
+#: tformmain.mi_filemenu.caption
+msgid "File"
+msgstr "File"
+
+#: tformmain.mi_helpmenu.caption
+msgid "Help"
+msgstr "Aiuto"
+
+#: tformmain.mi_language.caption
+msgid "Language"
+msgstr "Lingua"
+
+#: tformregister.bb_cancel.caption
+msgid "Cancel"
+msgstr "Annulla"
+
+#: tformregister.bb_register.caption
+msgctxt "TFORMREGISTER.BB_REGISTER.CAPTION"
+msgid "Register"
+msgstr "Registra"
+
+#: tformregister.caption
+msgid "Registration"
+msgstr "Attivazione"
+
+#: tformregister.label1.caption
+msgid "Please enter your registration code:"
+msgstr "Per favore inserisci il tuo codice di attivazione:"
+
+#: tformscreen.labelcmyk.caption
+msgid "<Color CMYK>"
+msgstr ""
+
+#: tformscreen.labelhls.caption
+msgid "<Color HLS>"
+msgstr ""
+
+#: tformscreen.labelhsv.caption
+msgid "<Color HSV>"
+msgstr ""
+
+#: tformscreen.labelpos.caption
+msgid "<Position>"
+msgstr ""
+
+#: tformscreen.labelrgb.caption
+msgid "<Color RGB>"
+msgstr ""
+
+#: tformscreen.labelspotsize.caption
+msgid "<Spot Size>"
+msgstr ""
+
+#: tformsettings.caption
+msgctxt "TFORMSETTINGS.CAPTION"
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: tformsettings.cb_webcolorwithhash.caption
+msgid "Display HTML color with hash symbol (#)"
+msgstr "Visualizza colore HTML con il simbolo (#)"
+
+#: tformsettings.gb_colorformat.caption
+msgid "Color format to copy into clipboard:"
+msgstr "Formato del colore da copiare negli appunti:"
+
+#: tformsettings.label_pickerspotsize.caption
+msgid "Color picker spot size:"
+msgstr ""
+
+#: tformsettings.rb_colorformat_cmyk_comma.caption
+msgid "C,M,Y,K"
+msgstr ""
+
+#: tformsettings.rb_colorformat_hex_dollar.caption
+msgid "HEX with $"
+msgstr "HEX con $"
+
+#: tformsettings.rb_colorformat_hex_zerox.caption
+msgid "HEX with 0x"
+msgstr "HEX con 0x"
+
+#: tformsettings.rb_colorformat_hls_comma.caption
+msgid "H,L,S"
+msgstr ""
+
+#: tformsettings.rb_colorformat_hsv_comma.caption
+msgid "H,S,V"
+msgstr ""
+
+#: tformsettings.rb_colorformat_html.caption
+msgid "HTML"
+msgstr ""
+
+#: tformsettings.rb_colorformat_html_hash.caption
+msgid "HTML with #"
+msgstr "HTML con #"
+
+#: tformsettings.rb_colorformat_rgba_bracket.caption
+msgid "rgba(x,x,x,1)"
+msgstr ""
+
+#: tformsettings.rb_colorformat_rgb_bracket.caption
+msgid "rgb(x,x,x)"
+msgstr ""
+
+#: tformsettings.rb_colorformat_rgb_comma.caption
+msgid "R,G,B"
+msgstr ""
+
+#: tformtermsofuse.bb_accept.caption
+msgid "Accept"
+msgstr "Accetta"
+
+#: tformtermsofuse.bb_litevspro.caption
+msgid "Lite vs Pro"
+msgstr "Lite vs Pro"
+
+#: tformtermsofuse.bb_purchase.caption
+msgid "Purchase"
+msgstr "Acquista"
+
+#: tformtermsofuse.bb_register.caption
+msgid "Enter registration code"
+msgstr "Inserisci la chiave di attivazione"
+
+#: tformtermsofuse.caption
+msgid "Terms of Use"
+msgstr "Termini e condizioni di utilizzo."
+
+#: tformtermsofuse.groupbox.caption
+msgid "Please be aware of the terms of use of this application:"
+msgstr "Si prega di leggere attentamente i termini di utilizzo di questa applicazione:"
+
+#: tformtermsofuse.label_commercial.caption
+msgid "For commercial use you must obtain a commercial license by going to the website. If you already hold a license please enter your registration code. Thank you for playing fair."
+msgstr "Per uso commerciale si deve ottenere una licenza visitando il sito web. Se è già in possesso di una licenza si prega di inserire il tuo codice di attivazione. Grazie per la correttezza."
+
+#: tformtermsofuse.label_noncommercial.caption
+msgctxt "TFORMTERMSOFUSE.LABEL_NONCOMMERCIAL.CAPTION"
+msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
+msgstr "Questa applicazione può essere utilizzata e distribuita SOLO per scopi non commerciali."
+
+#: tformtermsofuse.label_supportdevelopment.caption
+msgid "Please also consider purchasing a \"Pro\" version to support the future development of this application."
+msgstr "Si prega di considerare l'acquisto della versione \"Pro\" per supportare il futuro sviluppo di questa applicazione."
+
+#: ufunctions.msg_shell_execute_error
+msgctxt "ufunctions.msg_shell_execute_error"
+msgid ""
+"Could not open the following file:\n"
+"\n"
+"%s\n"
+"\n"
+"Error: %s (%d).\n"
+msgstr ""
+"Impossibile aprire il file seguente: \n"
+"\n"
+"%s\n"
+"\n"
+" Errore: %s (%d).\n"
+
+#: uregistration.s_cannot_create_license_dir
+msgctxt "uregistration.s_cannot_create_license_dir"
+msgid "Not able to create a directory for a license file."
+msgstr "Impossibile creare directory per il file di licenza."
+
+#: uregistration.s_contact_email
+msgctxt "uregistration.s_contact_email"
+msgid "Contact email"
+msgstr "Email di contatto"
+
+#: uregistration.s_contact_name
+msgctxt "uregistration.s_contact_name"
+msgid "Contact name"
+msgstr "Nome di contatto"
+
+#: uregistration.s_failed_delete_file
+msgid "Failed to delete file:"
+msgstr ""
+
+#: uregistration.s_failed_load_license_data
+msgid "Failed to load license data:"
+msgstr ""
+
+#: uregistration.s_failed_save_license_data
+msgid "Failed to save license data:"
+msgstr ""
+
+#: uregistration.s_issue_date
+msgctxt "uregistration.s_issue_date"
+msgid "Issue date"
+msgstr "Data di emissione"
+
+#: uregistration.s_license
+msgctxt "uregistration.s_license"
+msgid "License"
+msgstr "Licenza"
+
+#: uregistration.s_licensed_to
+msgctxt "uregistration.s_licensed_to"
+msgid "Licensed to"
+msgstr "Concesso in licenza a"
+
+#: uregistration.s_license_blacklisted
+msgid "License has been blacklisted."
+msgstr ""
+
+#: uregistration.s_license_expiry
+msgctxt "uregistration.s_license_expiry"
+msgid "License expiry"
+msgstr "Scadenza licenza"
+
+#: uregistration.s_license_has_expired
+msgctxt "uregistration.s_license_has_expired"
+msgid "License has expired."
+msgstr "Licenza scaduta."
+
+#: uregistration.s_license_invalid
+msgid "License is invalid!"
+msgstr ""
+
+#: uregistration.s_license_load_failed
+msgctxt "uregistration.s_license_load_failed"
+msgid "Failed to load the license."
+msgstr "Impossibile caricare la licenza."
+
+#: uregistration.s_license_need_to_renew
+msgid "You need to renew the license in order to activate the product."
+msgstr ""
+
+#: uregistration.s_license_remove_failed
+msgctxt "uregistration.s_license_remove_failed"
+msgid "Failed to remove the license."
+msgstr "Impossibile rimuovere la licenza."
+
+#: uregistration.s_license_remove_ok
+msgctxt "uregistration.s_license_remove_ok"
+msgid "License has been removed."
+msgstr "La licenza è stata rimossa."
+
+#: uregistration.s_license_upgrade_expired
+msgid "Your license is outside of the upgrade period."
+msgstr ""
+
+#: uregistration.s_number_of_computers
+msgctxt "uregistration.s_number_of_computers"
+msgid "Number of computers"
+msgstr "Numero di computer"
+
+#: uregistration.s_registration_error
+msgctxt "uregistration.s_registration_error"
+msgid "Registration code is invalid."
+msgstr "Il codice di attivazione non è valido."
+
+#: uregistration.s_registration_file_not_found
+msgid "Registration file not found."
+msgstr ""
+
+#: uregistration.s_registration_file_read_failed
+msgid "Failed to read registration file."
+msgstr ""
+
+#: uregistration.s_registration_ok
+msgctxt "uregistration.s_registration_ok"
+msgid "Registration has been successful!"
+msgstr "L'attivazione è andata a buon fine!"
+
+#: uregistration.s_upgrade_expiry
+msgctxt "uregistration.s_upgrade_expiry"
+msgid "Upgrade expiry"
+msgstr "Scadenza aggiornamento"
+
